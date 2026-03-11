@@ -9,14 +9,20 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 ### 🛠️ Tools and Languages
 
 <div id="tools" align="center">
-  <!-- Lovable -->
-  <img src="https://img.shields.io/badge/Lovable-FF3D71?style=flat-square&logo=lovable&logoColor=white" title="Lovable" alt="Lovable" height="40" />
+<!-- Lovable -->
+  <img src="https://img.shields.io/badge/Lovable-FF3D71?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyMXMtOC41LTUuNS04LjUtMTFBNS41IDUuNSAwIDAgMSAxMiA1LjVhNS41IDUuNSAwIDAgMSA4LjUgNC41YzAgNS41LTguNSAxMS04LjUgMTF6Ii8+PC9zdmc+" title="Lovable" alt="Lovable" height="40" />
+    
+  <!-- Gephi (Badge) -->
+  <img src="https://img.shields.io/badge/Gephi-466BB0?style=flat-square&logo=graphql&logoColor=white" title="Gephi" alt="Gephi" height="40" />
+  
+ 
   <!-- n8n -->
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="40" height="40" />
   <!-- Telegram -->
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" title="Telegram" alt="Telegram" width="40" height="40" />
   <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" title="Excel" alt="Excel" height="40" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" alt="Excel" width="40" height="40" />
+  
   <!-- OpenCV -->
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" title="OpenCV" alt="OpenCV" width="40" height="40" />
   <!-- MariaDB -->
@@ -43,6 +49,6 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40" />
   <!-- FastAPI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40" />
-  <!-- Docker -->
-  <img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="40" height="40" />
+   <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40" />
 </div>
