@@ -9,7 +9,7 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 ### 🛠️ Tools and Languages
 
 <div id="tools" align="center">
-![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-FF4D8D?style=for-the-badge)
+ <img src="https://img.shields.io/badge/Lovable-AI%20Builder-FF4D8D?style=for-the-badge" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40"/>
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
