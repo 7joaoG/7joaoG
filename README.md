@@ -10,7 +10,7 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 
 <div id="tools" align="center">
   <!-- Lovable - LobeHub (colorido 🌸) -->
-  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable.svg" title="Lovable" alt="Lovable" height="40" />
+  <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/lovable-color.svg" title="Lovable" alt="Lovable" height="60" />
   <!-- Gephi - Não disponível no LobeHub -->
   <img src="https://img.shields.io/badge/Gephi-466BB0?style=flat-square&logo=graphql&logoColor=white" title="Gephi" alt="Gephi" height="40" />
   <!-- n8n - LobeHub -->
