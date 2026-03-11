@@ -9,9 +9,10 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 ### 🛠️ Tools and Languages
 
 <div id="tools" align="center">
-  <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40" height="40"/>
+![Lovable](https://img.shields.io/badge/Lovable-AI%20Builder-FF4D8D?style=for-the-badge)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/n8n/n8n-original.svg" width="40"/>
+  <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="MariaDB" alt="MariaDB" width="40" height="40"/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
