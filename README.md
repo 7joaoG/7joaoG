@@ -9,14 +9,14 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
 ### 🛠️ Tools and Languages
 
 <div id="tools" align="center">
-  <!-- Lovable (com coração) -->
-  <img src="https://lobehub.com/api/logo?package=lovable&id=lovable-color" title="Lovable" alt="Lovable" width="40" height="40" />
+  <!-- Lovable -->
+  <img src="https://img.shields.io/badge/Lovable-FF3D71?style=flat-square&logo=lovable&logoColor=white" title="Lovable" alt="Lovable" height="40" />
   <!-- n8n -->
-  <img src="https://lobehub.com/api/logo?package=n8n&id=n8n-color" title="n8n" alt="n8n" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" title="n8n" alt="n8n" width="40" height="40" />
   <!-- Telegram -->
   <img src="https://cdn.simpleicons.org/telegram/26A5E4" title="Telegram" alt="Telegram" width="40" height="40" />
   <!-- Excel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" title="Excel" alt="Excel" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" title="Excel" alt="Excel" width="40" height="40" />
   <!-- OpenCV -->
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo.png" title="OpenCV" alt="OpenCV" width="40" height="40" />
   <!-- MariaDB -->
