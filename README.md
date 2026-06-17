@@ -2,9 +2,9 @@ Olá 🌸
 
 Um pouco sobre meu conhecimento e jornada de aprendizado:
 
-- 💡  Estou aprendendo: Gestão Organizacional, Automação de Processos, Chatbots, Análise de Dados [através das ferramentas N8N, Power BI, Excel e Telegram].
-- 🩹  Estou disposto a contribuir com: Machine Learning, Python, Visualização de Dados, Algoritmos, Estatística e Estruturas de Dados.
-- 💥  Procuro ajuda para aprender melhor tópicos sobre: Automação de Processos, Linux, Containerização, Análise de Dados, Gestão Empresarial, Redes de Computadores e Cybersegurança.
+- 💡  Estou aprendendo: Administração Financeira, Automação de Processos, Análise de Dados.
+- 🩹  Estou disposto a contribuir com: Machine Learning, Python, Visualização de Dados, Algoritmos e Estatística.
+- 💥  Procuro ajuda para aprender melhor tópicos sobre: Administração Financeira, Automação de Processos, Linux, Containerização, Análise de Dados, Gestão Empresarial e Redes de Computadores.
 
 ### 🛠️ Tools and Languages
 
