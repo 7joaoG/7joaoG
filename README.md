@@ -45,4 +45,26 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="60" height="60" />
   <!-- Docker - Simple Icons -->
   <img src="https://cdn.simpleicons.org/docker/2496ED" title="Docker" alt="Docker" width="60" height="60" />
-</div>
+  <!-- Flask - Simple Icons -->
+<img src="https://cdn.simpleicons.org/flask/000000" title="Flask" alt="Flask" width="60" height="60" />
+<!-- PostgreSQL - Devicon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60" />
+<!-- Redis - Simple Icons -->
+<img src="https://cdn.simpleicons.org/redis/DC382D" title="Redis" alt="Redis" width="60" height="60" />
+<!-- GitHub Actions - Simple Icons -->
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" title="GitHub Actions" alt="GitHub Actions" width="60" height="60" />
+<!-- Bash - Devicon -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="60" height="60" />
+<!-- SQLAlchemy - Shields.io -->
+<img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white" title="SQLAlchemy" alt="SQLAlchemy" height="60" />
+<!-- Pydantic - Simple Icons -->
+<img src="https://cdn.simpleicons.org/pydantic/E92063" title="Pydantic" alt="Pydantic" width="60" height="60" />
+<!-- Gunicorn - Shields.io -->
+<img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white" title="Gunicorn" alt="Gunicorn" height="60" />
+<!-- Alembic - Shields.io -->
+<img src="https://img.shields.io/badge/Alembic-3A3A3A?style=flat-square&logo=alembic&logoColor=white" title="Alembic" alt="Alembic" height="60" />
+<!-- Pytest - Simple Icons -->
+<img src="https://cdn.simpleicons.org/pytest/0A9EDB" title="Pytest" alt="Pytest" width="60" height="60" />
+<!-- Ruff - Simple Icons -->
+<img src="https://cdn.simpleicons.org/ruff/FCC21B" title="Ruff" alt="Ruff
+
