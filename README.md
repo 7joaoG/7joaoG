@@ -65,6 +65,5 @@ Um pouco sobre meu conhecimento e jornada de aprendizado:
   <!-- Ruff - Simple Icons -->
   <img src="https://cdn.simpleicons.org/ruff/FCC21B" title="Ruff" alt="Ruff width="60" height="60" />
 
-<\div>
 
 
